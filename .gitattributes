@@ -1,2 +1,2 @@
-ckpt/*.pth filter=lfs diff=lfs merge=lfs -text
+
 *.py !text !filter !merge !diff
