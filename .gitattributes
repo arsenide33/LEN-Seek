@@ -1,2 +1,2 @@
-
+*.py text
 *.py !text !filter !merge !diff
