@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **LEN-Seek has moved to [github.com/ding-oh/LEN-Seek](https://github.com/ding-oh/LEN-Seek).**  
+> The current version (v2.0, used in the revised manuscript) is maintained there. This repository keeps v1.0, the code released with the original submission, and is no longer updated.
+
 # LEN-Seek: Accelerated Template-Based Protein-Ligand Binding Site Finder
 
 LEN-Seek is a VAE-based Template-Based protein-ligand binding searching model.  
